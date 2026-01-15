@@ -26,6 +26,7 @@ A responsive expense tracking web application built using vanilla JavaScript. It
 The application is optimized for mobile, tablet, and desktop screens using flexible layouts, max-width containers, scalable typography, and targeted media queries.
 
 ## 🌐 Live Demo
+https://namanjainb3-tech.github.io/expense-tracker/
 
 
 ## 👨‍💻 Author
