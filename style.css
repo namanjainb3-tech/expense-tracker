@@ -74,7 +74,7 @@
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.5)
     ),
-    url("day.jpg");
+    url("assets/day.jpg");
     background-size: cover;
     background-position: center;
     min-height: 100vh;
@@ -86,7 +86,7 @@
       rgba(0, 0, 0, 0.5),
       rgba(0, 0, 0, 0.5)
     ),
-    url("night.png");
+    url("assets/night.png");
     background-size: cover;
     background-position: center;
     min-height: 100vh;
